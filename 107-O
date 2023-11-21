@@ -1,0 +1,3 @@
+O(n log n)  // Best case: Occurs when the partitioning is balanced.
+O(n log n)  // Average case: The average time complexity of quicksort.
+O(n^2)      // Worst case: Occurs when the partitioning is highly unbalanced.

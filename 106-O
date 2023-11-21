@@ -1,0 +1,3 @@
+O(log^2(n))   // Best case: Occurs when the sequence is perfectly bitonic.
+O(log^2(n))   // Average case: The average time complexity of bitonic sort.
+O(log^2(n))   // Worst case: Occurs when the sequence is perfectly bitonic.
